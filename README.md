@@ -3,3 +3,5 @@ Deep Learning and Artificial Intelligence , Tensorflow 2.0 is a Course attended 
 
 + Chapter 01 : Introduction to Google Colab.
 + Chapter 02 : Machine Learning and Neurons.
+  + Breast Cancer Classification.
+  + Linear Regression for Moore's Law.
