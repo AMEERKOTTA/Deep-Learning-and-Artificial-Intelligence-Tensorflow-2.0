@@ -5,4 +5,4 @@ Deep Learning and Artificial Intelligence , Tensorflow 2.0 is a Course attended 
 + Chapter 02 : Machine Learning and Neurons.
   + Breast Cancer Classification.
   + Linear Regression for Moore's Law.
-+ Chapter 03 : 
++ Chapter 03 : Feed Forward Artificial Neural Networks.
