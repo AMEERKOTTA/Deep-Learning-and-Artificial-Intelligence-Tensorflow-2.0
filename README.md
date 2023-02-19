@@ -7,6 +7,6 @@
   + Linear Regression for Moore's Law.
 + *Chapter 03 : Feed Forward Artificial Neural Networks.*
   + MNIST Classification using Artificial Neural Networks.
-  + 
+  + ANN model for Regression using Synthetic Data.
 + *Chapter 04 : Convolutional Neural Networks.*
 + *Chapter 05 : Transfer Learning for Computer Vision.*
