@@ -10,5 +10,5 @@
   + ANN model for Regression using Synthetic Data.
 + *Chapter 04 : Convolutional Neural Networks.*
   + Convolution Operation.
-  +  
+  + Convolution on Color Images.
 + *Chapter 05 : Transfer Learning for Computer Vision.*
