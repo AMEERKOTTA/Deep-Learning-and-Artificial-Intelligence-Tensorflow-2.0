@@ -7,4 +7,4 @@
   + Linear Regression for Moore's Law.
 + *Chapter 03 : Feed Forward Artificial Neural Networks.*
 + *Chapter 04 : Convolutional Neural Networks.*
-+ Chapter 05 : Transfer Learning for Computer Vision
++ *Chapter 05 : Transfer Learning for Computer Vision.*
