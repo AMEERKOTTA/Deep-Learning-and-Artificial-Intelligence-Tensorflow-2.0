@@ -11,4 +11,6 @@
 + *Chapter 04 : Convolutional Neural Networks.*
   + Convolution Operation.
   + Convolution on Color Images.
+  + CNN Architecture.
+  + 
 + *Chapter 05 : Transfer Learning for Computer Vision.*
