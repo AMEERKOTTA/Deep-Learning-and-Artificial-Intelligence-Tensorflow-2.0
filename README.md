@@ -16,3 +16,5 @@
   + CNN Model for CIFAR-10 Classification.
   + Improvement on CIFAR-10 Model by Using Image Augmentation and Batch Normalization.
 + *Chapter 05 : Transfer Learning for Computer Vision.*
+  + Transfer Learning Theory.
+  
