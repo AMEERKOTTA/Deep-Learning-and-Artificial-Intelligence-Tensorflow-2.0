@@ -18,3 +18,4 @@
 + *Chapter 05 : Transfer Learning for Computer Vision.*
   + Transfer Learning Theory.
   + Some Pretrained Models.
+  + Training on Large Datasets and Techniques.
