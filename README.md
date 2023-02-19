@@ -12,5 +12,5 @@
   + Convolution Operation.
   + Convolution on Color Images.
   + CNN Architecture.
-  + CNN Model for MNIST CLassification.
+  + CNN Model for MNIST Classification.
 + *Chapter 05 : Transfer Learning for Computer Vision.*
