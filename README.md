@@ -13,4 +13,5 @@
   + Convolution on Color Images.
   + CNN Architecture.
   + CNN Model for MNIST Classification.
+  + CNN Model for CIFAR-10 Classification.
 + *Chapter 05 : Transfer Learning for Computer Vision.*
