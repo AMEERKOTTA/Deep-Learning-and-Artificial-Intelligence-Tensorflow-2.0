@@ -22,4 +22,4 @@
   + Transfer Learning with Data Augmentation.
   + Transfer Learning without Data Augmentation.
 
-+ Chapter 06 : Recurrent Neural Networks, Time Series, and Sequence Data
++ *Chapter 06 : Recurrent Neural Networks, Time Series, and Sequence Data.*
