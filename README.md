@@ -20,3 +20,4 @@
   + Some Pretrained Models.
   + Training on Large Datasets and Techniques.
   + Transfer Learning with Data Augmentation.
+  + Transfer Learning without Data Augmentation.
