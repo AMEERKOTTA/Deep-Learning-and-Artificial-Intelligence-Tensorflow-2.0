@@ -19,3 +19,4 @@
   + Transfer Learning Theory.
   + Some Pretrained Models.
   + Training on Large Datasets and Techniques.
+  + Transfer Learning with Data Augmentation.
