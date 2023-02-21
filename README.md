@@ -24,3 +24,4 @@
 
 + *Chapter 06 : Recurrent Neural Networks, Time Series, and Sequence Data.*
   + Sequence Data
+  + Forecasting 
