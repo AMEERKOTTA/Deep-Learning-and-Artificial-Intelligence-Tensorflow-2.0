@@ -23,5 +23,6 @@
   + Transfer Learning without Data Augmentation.
 
 + *Chapter 06 : Recurrent Neural Networks, Time Series, and Sequence Data.*
-  + Sequence Data
-  + Forecasting 
+  + Sequence Data.
+  + Forecasting.
+  + Auto Regressive Linear Model for Time Series Prediction.
