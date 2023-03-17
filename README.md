@@ -27,3 +27,4 @@
   + Forecasting.
   + Auto Regressive Linear Model for Time Series Prediction.
   + Simple RNN Model using different Activation functions.
+  +
